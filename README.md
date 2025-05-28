@@ -1,6 +1,6 @@
 # Olá 👋, eu sou a Gabrielli! 
 ##  Sobre mim: 
-  Meu nome é Gabrielli, tenho 17 anos, e estou cursando programação. 
+  Meu nome é Gabrielli, tenho 17 anos, e estou cursando desenvolvimento de sistemas. 
   #
 Faço Tec. Desenvolvimento de Sitemas no Senai, sou formada em Back-End pelo Senai e Trabalhei como Jovem Aprendiz na Intelbras em 2024. Decidi me arriscar nessa área, porque é algo que eu consigo trabalhar fora do país. Pretendo me formar em medicina veterinária, porém também quero seguir na área da tecnologia com uma faculdade de ADS.
 
